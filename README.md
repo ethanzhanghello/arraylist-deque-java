@@ -14,7 +14,6 @@
 - [Project Roadmap](#project-roadmap)
 - [Project Status](#project-status)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Acknowledgments](#acknowledgments)
 - [License Information](#license-information)
 
 ---
@@ -92,7 +91,7 @@ Inline JavaDocs describe all public methods and implementation details.
 ## 🛟 Support Information
 
 - Issues: [GitHub Issues](https://github.com/your-username/arraydeque-java/issues)
-- Email: `your-email@example.com`
+- Email: `ezhang0606@gmail.com`
 
 ---
 
@@ -119,14 +118,6 @@ Want to contribute?
 2. Create a feature branch
 3. Document and test your feature
 4. Open a pull request with context and reasoning
-
----
-
-## 🙌 Acknowledgments
-
-- Inspired by UC Berkeley’s CS 61B curriculum
-- Thanks to Java open-source communities for examples and interface patterns
-- Special thanks to test reviewers and debugging buddies
 
 ---
 
